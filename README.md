@@ -1,2 +1,2 @@
 # Siamese-using-PyTorch
-Facial similarity using one-shot learning in Siamese Networks
+Facial similarity using one-shot learning with Siamese Networks
